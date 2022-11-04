@@ -1,1 +1,1 @@
-# FarisZimamtsk.gitub.io
+# FarisZimamtsk.github.io
